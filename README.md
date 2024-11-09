@@ -52,7 +52,7 @@ Bug Report for dmoney API:
 
 [here!](https://docs.google.com/spreadsheets/d/16US_Oei-ItILAse4D5w5Htg3_xTWmjRR/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true)
 
-## New Man Report
+## Newman Report
 ![image](https://github.com/user-attachments/assets/c43fbb6b-a886-41d1-965c-463c63884318)
 
 

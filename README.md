@@ -36,17 +36,21 @@ Here,i was asked to write based on some scenarios,a postman collection based on 
 ## Technology Used
 
 •	Postman
+
 •	Newman
 
 ## API Documentation
-https://documenter.getpostman.com/view/38095946/2sAXjSzU8U
+[The API Documantation link](https://documenter.getpostman.com/view/38095946/2sAXjSzU8U)
 
 ## Test case Report
+The test case report of avobe 10 test case scenarios: 
 
-https://docs.google.com/spreadsheets/d/1misPVVVSr3s0ZsIpQEKUmEG7pxAm9sHf/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true
+[here!](https://docs.google.com/spreadsheets/d/1misPVVVSr3s0ZsIpQEKUmEG7pxAm9sHf/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true)
 
 ## Bug Report
-https://docs.google.com/spreadsheets/d/16US_Oei-ItILAse4D5w5Htg3_xTWmjRR/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true
+Bug Report for dmoney API:
+
+[here!](https://docs.google.com/spreadsheets/d/16US_Oei-ItILAse4D5w5Htg3_xTWmjRR/edit?usp=sharing&ouid=110517012309635225204&rtpof=true&sd=true)
 
 ## New Man Report
 ![image](https://github.com/user-attachments/assets/c43fbb6b-a886-41d1-965c-463c63884318)
